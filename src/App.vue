@@ -60,6 +60,7 @@
           { title: 'Usuario', icon: 'mdi-account', to: '/user' },
           { title: 'Producto', icon: 'mdi-tooltip-text', to: '/producto' },
           { title: 'Catálogo', icon: 'mdi-tooltip-text', to: '/catalogo' },
+          { title: 'Login', icon: 'mdi-tooltip-text', to: '/Login' }
         ],
       }),
   }
